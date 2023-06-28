@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AbhinandanPriyadarshi
 - 👀 I’m interested in Gaming And Coding Industry
 - 🌱 I’m currently learning Python, HTML/CSS, Javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord :- Voard#0048
                                   
 <!---
